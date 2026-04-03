@@ -31,6 +31,8 @@ int main (){
 
      system("pause"); 
 
+    printf("next to the phase 2 !!");
+
     return 0;
     
 }
